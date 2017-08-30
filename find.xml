@@ -3,13 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xlf" />
     <recentFileMasks>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*.asts</mask>
-      <mask>*.ats</mask>
-      <mask>t</mask>
-      <mask>ts</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.gr</mask>
@@ -31,9 +26,15 @@
       <mask>*.p</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.t</mask>
       <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*.xn</mask>
+      <mask>*.xk</mask>
+      <mask>*.x</mask>
+      <mask>*.xl</mask>
+      <mask>*.xlff</mask>
+      <mask>*.xlf</mask>
     </recentFileMasks>
   </component>
 </application>
