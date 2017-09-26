@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*.j</mask>
       <mask>*.t</mask>
@@ -21,19 +22,19 @@
       <mask>*.c</mask>
       <mask>*.ht,ö</mask>
       <mask>*.ht,</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.ts</mask>
       <mask>ht,</mask>
       <mask>ht</mask>
       <mask>htm</mask>
       <mask>html</mask>
       <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
