@@ -5,7 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.j</mask>
-      <mask>*.t</mask>
       <mask>*.xn</mask>
       <mask>*.xk</mask>
       <mask>*.x</mask>
@@ -21,7 +20,6 @@
       <mask>*.c</mask>
       <mask>*.ht,ö</mask>
       <mask>*.ht,</mask>
-      <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>ht,</mask>
@@ -32,8 +30,10 @@
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*.</mask>
       <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
