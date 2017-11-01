@@ -3,14 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
-      <mask>xaa</mask>
-      <mask>xa</mask>
-      <mask>x</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*.ht,ö</mask>
       <mask>*.ht,</mask>
       <mask>ht,</mask>
       <mask>ht</mask>
@@ -18,7 +12,6 @@
       <mask>html</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*</mask>
       <mask>*.t</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
@@ -32,8 +25,16 @@
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*.ts</mask>
+      <mask>sq</mask>
+      <mask>s</mask>
+      <mask>*</mask>
+      <mask>*.q</mask>
+      <mask>*.</mask>
+      <mask>*.slq</mask>
+      <mask>*.sl</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
