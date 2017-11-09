@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>ht</mask>
       <mask>htm</mask>
@@ -19,23 +20,23 @@
       <mask>Üphp</mask>
       <mask>+.php</mask>
       <mask>+php</mask>
-      <mask>php</mask>
       <mask>*php</mask>
-      <mask>*.php</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
       <mask>sq</mask>
       <mask>s</mask>
       <mask>*.q</mask>
-      <mask>*.</mask>
       <mask>*.slq</mask>
       <mask>*.sl</mask>
       <mask>*.sq</mask>
-      <mask>*.sql</mask>
       <mask>ts</mask>
       <mask>t</mask>
-      <mask>*</mask>
       <mask>*.ts</mask>
+      <mask>php</mask>
+      <mask>*.ph</mask>
+      <mask>*</mask>
+      <mask>*.sql</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
