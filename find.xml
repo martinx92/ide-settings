@@ -28,7 +28,6 @@
       <mask>*.sq</mask>
       <mask>ts</mask>
       <mask>t</mask>
-      <mask>*.ts</mask>
       <mask>php</mask>
       <mask>*.ph</mask>
       <mask>*</mask>
@@ -36,6 +35,7 @@
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
