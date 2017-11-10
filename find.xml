@@ -6,12 +6,6 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>ht</mask>
-      <mask>htm</mask>
-      <mask>html</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*.t</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
       <mask>p</mask>
@@ -30,12 +24,18 @@
       <mask>t</mask>
       <mask>php</mask>
       <mask>*.ph</mask>
-      <mask>*</mask>
       <mask>*.sql</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
       <mask>*.ts</mask>
+      <mask>xml</mask>
+      <mask>xm</mask>
+      <mask>x</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
