@@ -3,12 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
-      <mask>*.htm</mask>
-      <mask>*.html</mask>
-      <mask>p</mask>
-      <mask>ph</mask>
-      <mask>Üphp</mask>
       <mask>+.php</mask>
       <mask>+php</mask>
       <mask>*php</mask>
@@ -25,15 +21,20 @@
       <mask>*.sql</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
-      <mask>*.ts</mask>
       <mask>xml</mask>
       <mask>xm</mask>
       <mask>x</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
+      <mask>.t</mask>
+      <mask>.</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.htm</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
