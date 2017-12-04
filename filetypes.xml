@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="ENABLE_INSTALL_TOOL" type="PLAIN_TEXT" />
-      <mapping ext="xlf" type="PLAIN_TEXT" />
       <removed_mapping ext="ts" type="TypeScript" />
     </extensionMap>
   </component>
