@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xlf" />
     <recentFileMasks>
-      <mask>*php</mask>
-      <mask>sq</mask>
       <mask>s</mask>
       <mask>*.q</mask>
       <mask>*.slq</mask>
@@ -21,19 +20,21 @@
       <mask>x</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>.t</mask>
       <mask>.</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
-      <mask>*.</mask>
-      <mask>*.t</mask>
       <mask>*.tx</mask>
       <mask>*.txt</mask>
       <mask>*</mask>
       <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xl</mask>
+      <mask>*.xlf</mask>
     </recentFileMasks>
   </component>
 </application>
