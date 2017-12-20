@@ -3,12 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
-      <mask>s</mask>
       <mask>*.q</mask>
       <mask>*.slq</mask>
       <mask>*.sl</mask>
-      <mask>*.sq</mask>
       <mask>ts</mask>
       <mask>t</mask>
       <mask>php</mask>
@@ -30,10 +29,12 @@
       <mask>*.xlf</mask>
       <mask>*.xl</mask>
       <mask>*.x</mask>
-      <mask>*.ts</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
       <mask>*.sql</mask>
+      <mask>*.sq</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
