@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*.q</mask>
       <mask>*.slq</mask>
@@ -13,7 +14,6 @@
       <mask>*.ph</mask>
       <mask>xml</mask>
       <mask>xm</mask>
-      <mask>x</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>.t</mask>
@@ -22,16 +22,17 @@
       <mask>*.html</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
-      <mask>*.tx</mask>
-      <mask>*.txt</mask>
-      <mask>*</mask>
       <mask>*.xlf</mask>
       <mask>*.xl</mask>
       <mask>*.x</mask>
-      <mask>*.t</mask>
       <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
+      <mask>x</mask>
+      <mask>*</mask>
+      <mask>*.txt</mask>
+      <mask>*.tx</mask>
+      <mask>*.t</mask>
       <mask>*.</mask>
       <mask>*.ts</mask>
     </recentFileMasks>
