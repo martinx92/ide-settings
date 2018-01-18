@@ -4,14 +4,10 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>xml</mask>
-      <mask>xm</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>.t</mask>
       <mask>.</mask>
-      <mask>*.htm</mask>
-      <mask>*.html</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
       <mask>*.xlf</mask>
@@ -21,11 +17,9 @@
       <mask>*.sq</mask>
       <mask>*.s</mask>
       <mask>x</mask>
-      <mask>*</mask>
       <mask>*.txt</mask>
       <mask>*.tx</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
       <mask>*.ts</mask>
       <mask>*.ts,</mask>
       <mask>*.ts,</mask>
@@ -34,6 +28,12 @@
       <mask>*.ts, *.t</mask>
       <mask>*.ts, *.tx</mask>
       <mask>*.ts, *.txt</mask>
+      <mask>*</mask>
+      <mask>*.hgm</mask>
+      <mask>*.hg</mask>
+      <mask>*.</mask>
+      <mask>*.htm</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
