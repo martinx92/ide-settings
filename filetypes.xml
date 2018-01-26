@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="ENABLE_INSTALL_TOOL" type="PLAIN_TEXT" />
       <removed_mapping ext="ts" type="TypeScript" />
+      <mapping ext="xlf" type="XML" />
     </extensionMap>
   </component>
 </application>
