@@ -16,7 +16,6 @@
       <mask>*.sq</mask>
       <mask>*.s</mask>
       <mask>x</mask>
-      <mask>*.txt</mask>
       <mask>*.tx</mask>
       <mask>*.t</mask>
       <mask>*.ts,</mask>
@@ -34,6 +33,7 @@
       <mask>*.html</mask>
       <mask>*.ts</mask>
       <mask>*xlf</mask>
+      <mask>*.txt</mask>
     </recentFileMasks>
   </component>
 </application>
