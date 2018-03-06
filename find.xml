@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
       <mask>*.xm</mask>
       <mask>.t</mask>
@@ -12,7 +13,6 @@
       <mask>*.xlf</mask>
       <mask>*.xl</mask>
       <mask>*.x</mask>
-      <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
       <mask>x</mask>
@@ -34,6 +34,7 @@
       <mask>*.ts</mask>
       <mask>*xlf</mask>
       <mask>*.txt</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
