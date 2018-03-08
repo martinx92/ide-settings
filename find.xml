@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.txt" />
     <recentFileMasks>
       <mask>.t</mask>
       <mask>.</mask>
@@ -30,10 +31,10 @@
       <mask>*.html</mask>
       <mask>*.ts</mask>
       <mask>*xlf</mask>
-      <mask>*.txt</mask>
       <mask>*.sql</mask>
       <mask>*.php</mask>
       <mask>*.js</mask>
+      <mask>*.txt</mask>
     </recentFileMasks>
   </component>
 </application>
