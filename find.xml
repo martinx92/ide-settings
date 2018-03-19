@@ -31,9 +31,9 @@
       <mask>*.ts</mask>
       <mask>*xlf</mask>
       <mask>*.sql</mask>
-      <mask>*.php</mask>
       <mask>*.js</mask>
       <mask>*.txt</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
