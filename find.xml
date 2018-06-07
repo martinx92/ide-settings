@@ -3,37 +3,17 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.q</mask>
-      <mask>*.slq</mask>
-      <mask>*.sl</mask>
-      <mask>ts</mask>
-      <mask>t</mask>
-      <mask>php</mask>
-      <mask>*.ph</mask>
-      <mask>xml</mask>
-      <mask>xm</mask>
-      <mask>x</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>.t</mask>
-      <mask>.</mask>
-      <mask>*.htm</mask>
-      <mask>*.html</mask>
-      <mask>*.p</mask>
-      <mask>*.php</mask>
-      <mask>*.tx</mask>
-      <mask>*.txt</mask>
-      <mask>*</mask>
-      <mask>*.xlf</mask>
-      <mask>*.xl</mask>
-      <mask>*.x</mask>
-      <mask>*.t</mask>
-      <mask>*.sql</mask>
-      <mask>*.sq</mask>
-      <mask>*.s</mask>
-      <mask>*.</mask>
-      <mask>*.ts</mask>
-    </recentFileMasks>
+    <mask>*.properties</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.php</mask>
+    <mask>*.js</mask>
+    <mask>*.sql</mask>
+    <mask>*.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
