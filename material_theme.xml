@@ -4,8 +4,9 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="isContrastMode" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
-    <option name="useMaterialIcons" value="false" />
+    <option name="accentColor" value="80cbc4" />
     <option name="darkTitleBar" value="true" />
+    <option name="tabOpacity" value="100" />
     <option name="monochromeIcons" value="true" />
     <option name="userId" value="41467106:163fd9307cc:-7fff" />
   </component>
