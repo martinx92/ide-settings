@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="ENABLE_INSTALL_TOOL" type="PLAIN_TEXT" />
+      <mapping pattern="StageImage.html" type="PLAIN_TEXT" />
       <mapping pattern="event_overview" type="PLAIN_TEXT" />
+      <mapping pattern="ENABLE_INSTALL_TOOL" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="xlf" type="XML" />
     </extensionMap>
