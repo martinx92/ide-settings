@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -14,10 +15,10 @@
     <mask>*.sql</mask>
     <mask>*.js</mask>
     <mask>*.xlf</mask>
-    <mask>*.php</mask>
     <mask>*.html</mask>
     <mask>*.txt</mask>
     <mask>*.css</mask>
     <mask>*.ts</mask>
+    <mask>*.php</mask>
   </component>
 </application>
