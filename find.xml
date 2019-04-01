@@ -12,10 +12,10 @@
     <mask>*.js</mask>
     <mask>*.html</mask>
     <mask>*.css</mask>
-    <mask>*.php</mask>
     <mask>*.ts</mask>
     <mask>*.sql</mask>
     <mask>*.xlf</mask>
     <mask>*.txt</mask>
+    <mask>*.php</mask>
   </component>
 </application>
