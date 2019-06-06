@@ -13,10 +13,10 @@
     <mask>*.css</mask>
     <mask>*.txt</mask>
     <mask>*.yaml</mask>
-    <mask>*.xlf</mask>
     <mask>*.js</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
     <mask>*.php</mask>
+    <mask>*.xlf</mask>
   </component>
 </application>
