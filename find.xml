@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../typo3conf/ext/kaupcontacts'" />
-    <option name="defaultScopeName" value="Directory '.../typo3conf/ext/kaupcontacts'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../typo3conf/ext/kaupcontacts'" />
+    <option name="customScope" value="Directory '.../typo3conf/ext/kaupcontacts/Classes'" />
+    <option name="defaultScopeName" value="Directory '.../typo3conf/ext/kaupcontacts/Classes'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../typo3conf/ext/kaupcontacts/Classes'" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
