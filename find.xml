@@ -10,7 +10,6 @@
     <mask>*.mxml</mask>
     <mask>*.txt</mask>
     <mask>*.yaml</mask>
-    <mask>*.php</mask>
     <mask>*.xlf</mask>
     <mask>*.sql</mask>
     <mask>*.xml</mask>
@@ -19,5 +18,6 @@
     <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.typoscript</mask>
+    <mask>*.php</mask>
   </component>
 </application>
