@@ -1,6 +1,5 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="customTreeIndentEnabled" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="tabOpacity" value="100" />
@@ -9,6 +8,6 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="41467106:163fd9307cc:-7fff" />
-    <option name="version" value="5.1.0" />
+    <option name="version" value="4.11.5" />
   </component>
 </application>
