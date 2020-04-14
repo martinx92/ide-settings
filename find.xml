@@ -11,13 +11,13 @@
     <mask>*.txt</mask>
     <mask>*.yaml</mask>
     <mask>*.xlf</mask>
-    <mask>*.html</mask>
     <mask>*.ts</mask>
     <mask>*.typoscript</mask>
-    <mask>*.php</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
+    <mask>*.php</mask>
     <mask>*.sql</mask>
+    <mask>*.html</mask>
   </component>
 </application>
