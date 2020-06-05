@@ -13,11 +13,11 @@
     <mask>*.xlf</mask>
     <mask>*.ts</mask>
     <mask>*.typoscript</mask>
-    <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.php</mask>
     <mask>*.sql</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
+    <mask>*.js</mask>
   </component>
 </application>
