@@ -17,7 +17,7 @@
     <mask>*.css</mask>
     <mask>*.js</mask>
     <mask>*.typoscript</mask>
-    <mask>*.html</mask>
     <mask>*.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
