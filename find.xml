@@ -12,12 +12,12 @@
     <mask>*.yaml</mask>
     <mask>*.xlf</mask>
     <mask>*.xml</mask>
-    <mask>*.php</mask>
     <mask>*.sql</mask>
     <mask>*.css</mask>
     <mask>*.typoscript</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
