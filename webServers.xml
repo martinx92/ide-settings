@@ -8,6 +8,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="1fb44fd6-1db3-478b-bd74-4cc94bacd6ca" name="qcells-2" url="https://qcells-de-2.mellow.biz">
+        <fileTransfer rootFolder="/mnt/data/www/project_space/integration/qcells/website-2" accessType="SFTP" host="srv-int-hqc" port="22" sshConfigId="22d90442-d078-4f0b-9082-56f45b4aee1b" sshConfig="mhelber@srv-int-hqc:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
