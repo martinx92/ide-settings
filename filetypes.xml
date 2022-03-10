@@ -5,7 +5,6 @@
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="sxw" type="PLAIN_TEXT" />
-      <mapping ext="ts" type="TypeScript" />
       <mapping ext="xlf" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
