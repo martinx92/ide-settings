@@ -6,6 +6,7 @@
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="sxw" type="PLAIN_TEXT" />
+      <mapping ext="ts" type="TypeScript" />
       <mapping ext="xlf" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
@@ -14,7 +15,7 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <removed_mapping ext="ts" approved="true" type="TypeScript" />
+      <removed_mapping ext="ts" approved="true" type="TypoScript File" />
     </extensionMap>
   </component>
 </application>
