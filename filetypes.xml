@@ -9,10 +9,12 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="env" approved="true" type=".env file" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <removed_mapping ext="ts" approved="true" type="TypeScript" />
+      <removed_mapping ext="ts" approved="true" type="TypoScript File" />
+      <mapping pattern=".env-example" type=".env file" />
     </extensionMap>
   </component>
 </application>
