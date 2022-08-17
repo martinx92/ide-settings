@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern=".env-example" type=".env file" />
       <mapping pattern="ChangeLog" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
@@ -15,6 +14,7 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="ts" approved="true" type="TypoScript File" />
+      <mapping pattern=".env-example" type=".env file" />
     </extensionMap>
   </component>
 </application>
