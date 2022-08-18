@@ -1,10 +1,12 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <removed_mapping ext="rs" type="Android RenderScript" />
       <mapping pattern="ChangeLog" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="sxw" type="PLAIN_TEXT" />
+      <mapping ext="rs" type="Rust" />
       <mapping ext="xlf" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
