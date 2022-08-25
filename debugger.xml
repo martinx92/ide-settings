@@ -92,14 +92,19 @@
       <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
     </general>
     <debuggers>
+      <debugger id="ObjectiveC">
+        <configuration>
+          <nt-symbol-settings />
+        </configuration>
+      </debugger>
+      <debugger id="Rust">
+        <configuration>
+          <option name="lldbPath" value="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2022.2/intellij-rust/lldb" />
+        </configuration>
+      </debugger>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
-        </configuration>
-      </debugger>
-      <debugger id="kotlin_debugger">
-        <configuration>
-          <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
         </configuration>
       </debugger>
     </debuggers>
