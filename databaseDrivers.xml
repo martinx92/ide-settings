@@ -9,7 +9,9 @@
     <driver id="mysql">
       <artifact id="MySQL Connector/J" name="MySQL Connector/J" channel="fixed" rolling="false" use="true" version="5.1.40" />
     </driver>
-    <driver id="snowflake" />
+    <driver id="oracle.19">
+      <artifact id="Oracle" name="Oracle" use="true" version="21.5.0.0" />
+    </driver>
     <driver id="${jdbc.driverClassName}" name="${jdbc.driverClassName}" driver-class="${jdbc.driverClassName}" />
   </component>
 </application>
