@@ -2,6 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="srv-int-hqc" id="22d90442-d078-4f0b-9082-56f45b4aee1b" port="22" nameFormat="DESCRIPTIVE" username="mhelber" />
+      <sshConfig authType="PASSWORD" host="192.168.0.81" id="8c5c1a26-4d36-41dc-81ce-04c17eea971f" port="22" nameFormat="DESCRIPTIVE" username="oracle" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
