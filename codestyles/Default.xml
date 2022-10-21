@@ -8,7 +8,7 @@
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
-    <option name="USE_EXPLICIT_JS_EXTENSION" value="TRUE" />
+    <option name="USE_EXPLICIT_JS_EXTENSION" value="FALSE" />
     <option name="CHAINED_CALL_DOT_ON_NEW_LINE" value="false" />
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
