@@ -21,6 +21,10 @@
           <option name="url" value="http://kimdev.kiongroup.net" />
           <option name="userName" value="exa0055746" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/martinx92/t3sync" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/www" />
