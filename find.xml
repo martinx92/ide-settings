@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.typoscript" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -13,12 +14,12 @@
     <mask>*.xlf</mask>
     <mask>*.xml</mask>
     <mask>*.css</mask>
-    <mask>*.typoscript</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
     <mask>*.sql</mask>
     <mask>*.php, *.txt, *.ts, *.typoscript</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.typoscript</mask>
   </component>
 </application>
