@@ -1,5 +1,5 @@
 <templateSet group="Rust">
-  <template name="component" value="use yew::prelude::*;&#10;&#10;struct $NAME$;&#10;&#10;enum Msg {&#10;}&#10;&#10;impl Component for $NAME$ {&#10;    type Message = Msg;&#10;    type Properties = ();&#10;&#10;    fn create(ctx: &amp;Context&lt;Self&gt;) -&gt; Self {&#10;        Self&#10;    }&#10;&#10;    fn view(&amp;self, ctx: &amp;Context&lt;Self&gt;) -&gt; Html {&#10;        html! {&#10;            $HTML$&#10;        }&#10;    }&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="component" value="use yew::prelude::*;&#10;&#10;struct $NAME$;&#10;&#10;enum Msg {&#10;}&#10;&#10;impl Component for $NAME$ {&#10;    type Message = Msg;&#10;    type Properties = ();&#10;&#10;    fn create(ctx: &amp;Context&lt;Self&gt;) -&gt; Self {&#10;        Self&#10;    }&#10;&#10;    fn view(&amp;self, ctx: &amp;Context&lt;Self&gt;) -&gt; Html {&#10;        html! {&#10;            $HTML$&#10;        }&#10;    }&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="HTML" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
